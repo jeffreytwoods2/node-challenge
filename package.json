@@ -1,0 +1,26 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/) and [express.js](https://expressjs.com/)",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/GnomeSaiyan/node-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/GnomeSaiyan/node-exercise/issues"
+  },
+  "homepage": "https://gitlab.com/GnomeSaiyan/node-exercise#readme",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "lodash": "^4.17.21"
+  }
+}
